@@ -5,8 +5,7 @@
   ![GitHub forks](https://img.shields.io/github/forks/imshivlok/linkspage?style=social)
   ![Progress](https://img.shields.io/badge/Completed-238636)<br>
   
-  <img src="/images/logo.png" alt="logo" title="logo" width="20%">
-
+  <img src="/images/logo.png" alt="logo" title="logo" width="10%">
  <h2>Linkspage</h2>
   A simple, minimalistic, neat and clean Linktree clone/alternative.<br>Built using HTML/CSS.<br><br>
 <a href="https://imshivlok.github.io/linkspage/" align="center"><strong>➥View Demo</strong></a><br>
